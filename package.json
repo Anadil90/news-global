@@ -2,10 +2,10 @@
   "name": "news-app",
   "version": "1.0.0",
   "description": "A news website that lets you stay on top of what's happening around the world.",
-  "main": "news.html",
+  "source": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel --open"
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
