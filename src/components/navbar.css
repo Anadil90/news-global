@@ -1,0 +1,24 @@
+.navbar {
+    justify-content: space-around;
+    align-items: center;
+    background-color: #e3f2fd;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.form-inline {
+    display: flex;
+    margin-left: auto;
+    margin-right: 55px;
+}
+
+.mainIcon {
+    width: 30px;
+    
+}
+
+.navbar-brand {
+    display: center;
+    margin-left: 55px;
+}
+
