@@ -1,9 +1,12 @@
-.navbar {
+nav.navbar {
     justify-content: space-around;
     align-items: center;
     background-color: #e3f2fd;
     margin-bottom: 30px;
     width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
 }
 
 .form-inline {
@@ -18,7 +21,8 @@
 }
 
 .navbar-brand {
-    display: center;
+    display: flex;
     margin-left: 55px;
+    align-items: center;
 }
 
